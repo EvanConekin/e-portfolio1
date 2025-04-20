@@ -213,12 +213,12 @@ padding: 0 12px;
 }
 .about-me__image--container{
     align-items: center;
-    display: flex;    
+    display: flex;   
+    
 
 }
 .about-me__img{
-    width: 100%;
-
+width: 100%;
     animation: fade-in 1000ms 800ms backwards;
 }
 @keyframes fade-in{

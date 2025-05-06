@@ -270,7 +270,7 @@ flex-wrap: wrap;
     opacity: 0;
 }
 .language:hover .language__name{
-    transform:scale(1.25);
+    transform:scale(1.5);
     opacity: 1;
 }
 
